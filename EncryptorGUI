@@ -1,0 +1,10 @@
+package test;
+
+public class EncryptorGUI {
+	public static void main(String[] args){
+		LogInGUI gui = new LogInGUI ();
+		gui.run();
+		//DepositGUI gui = new DepositGUI();
+		//gui.run();
+	}
+}
